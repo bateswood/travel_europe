@@ -15,7 +15,7 @@
 - [ ] Catamaran Sunset Cruise 
 - [ ] Akrotiri Ruins
 - [ ] Fira to Oia Hike
-## London, England
+## England, London
 - [ ] Buckingham Palace 
 - [ ] Hyde Park
 - [ ] River Thames 
