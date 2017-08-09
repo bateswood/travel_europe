@@ -11,6 +11,9 @@
 - [ ] Anne Frank House 
 - [ ] Red Light District
 - [ ] Canal Cruise 
+## Rome, Italy
+- [ ] Vatican
+- [ ] Coliseum
 ## Santorini, Greece
 - [ ] Catamaran Sunset Cruise 
 - [ ] Akrotiri Ruins
