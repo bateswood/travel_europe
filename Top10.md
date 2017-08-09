@@ -18,11 +18,7 @@
 ## England, London 
 - [ ] Buckingham Palace 
 - [ ] Hyde Park
-- [ ] River Thames 
-## Rome, Italy
-- [ ] Coliseum
-- [ ] Vatican Museum 
-- [ ] Trevi Fountain 
+- [ ] River Thames  
 ## Istanbul, Turkey
 - [ ] Hagia Sophia 
 - [ ] Bosphorus River
