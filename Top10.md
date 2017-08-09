@@ -15,10 +15,14 @@
 - [ ] Catamaran Sunset Cruise 
 - [ ] Akrotiri Ruins
 - [ ] Fira to Oia Hike
-## England, London
+## England, London 
 - [ ] Buckingham Palace 
 - [ ] Hyde Park
 - [ ] River Thames 
+## Rome, Italy
+- [ ] Coliseum
+- [ ] Vatican Museum 
+- [ ] Trevi Fountain 
 ## Istanbul, Turkey
 - [ ] Hagia Sophia 
 - [ ] Bosphorus River
@@ -27,10 +31,6 @@
 - [ ] Sintra Castle
 - [ ] Belem Tower
 - [ ] Bairro Alto
-## Dublin, Ireland
-- [ ] Guiness Storehouse 
-- [ ] Kilmainham Gaol
-- [ ] Old Jameson Distillery 
 ## Reykjavik, Iceland
 - [ ] Golden Circle
 - [ ] Blue Lagoon
